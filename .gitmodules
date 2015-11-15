@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://Treenson@bitbucket.org/Treenson/smoking-doppler-node-server.git
