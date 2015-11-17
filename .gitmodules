@@ -4,3 +4,6 @@
 [submodule "android"]
 	path = android
 	url = https://Treenson@bitbucket.org/Treenson/smokingdoppler-android.git
+[submodule "DLServer"]
+	path = DLServer
+	url = https://Treenson@bitbucket.org/Treenson/smokingdoppler-dlserver.git
